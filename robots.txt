@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iereushoo.fhgapp.com/sitemap.xml
